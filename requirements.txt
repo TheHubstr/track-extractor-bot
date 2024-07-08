@@ -1,0 +1,3 @@
+pynostr~=0.6.2
+tornado~=6.4.1
+cachetools~=5.3.3
